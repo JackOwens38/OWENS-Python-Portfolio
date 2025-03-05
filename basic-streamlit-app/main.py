@@ -12,3 +12,8 @@ site = st.selectbox("Select a site", df["Site Name"].unique())
 filtered_df = df[df["Site Name"] == site]
 st.write(f"Reviews for {site}:")
 st.dataframe(filtered_df)
+
+satisfaction = st.slider("Use this slide to filter out reviews with satisfaction scores below what you select.", 0, 5)
+satisfied_df = filtered_df[df["Satisfaction"]>=satisfaction]
+st.write(f"Reviews for {site} with a minimum satisfaction rating of {satisfaction}:")
+st.dataframe(satisfied_df)
