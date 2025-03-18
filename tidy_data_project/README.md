@@ -15,3 +15,11 @@
 
 #### Here's an example of a visualization made with my code: 
 <img width="566" alt="Screenshot 2025-03-18 at 1 57 41 AM" src="https://github.com/user-attachments/assets/634b71f5-6163-4f20-9341-5e6ed5a221e8" />
+
+### Learn More
+#### If you are interested in learning more about tidy data and its principles, considering using some of the resources that I used!
+#### [Tidy Data by Hadley Wickham](https://vita.had.co.nz/papers/tidy-data.pdf): Wickham's article provides the best overall summarization of tidy data that I have come across, and gives a great overall perspective on the concepts, as well as how they are applied in real datasets.
+#### [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf): Pandas Cheat Sheet has a quick answer for any basic Pandas operation.
+#### [API Reference](https://pandas.pydata.org/docs/reference/): API reference provided a deeper dive into all things Pandas.
+#### [Python for Data Science](https://aeturrell.github.io/python4DS/data-tidy.html): This chapter has a quick analysis of what tidy data is, and why it is important in data science as a whole.
+#### [Data Camp](https://www.datacamp.com/tutorial/data-preparation-with-pandas): Data Camp helped me learn Pandas before I started exploring tidy data specifically.
