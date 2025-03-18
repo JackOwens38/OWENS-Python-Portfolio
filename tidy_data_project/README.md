@@ -12,5 +12,6 @@
 #### The Jupyter Notebook is arranged such that markdowns provide organization throughout the code. From there, you can see the steps taken, including adjusting the data to long-form and creating visualizations. 
 #### This is a portion of what the data looked like after being converted to long-form:
 <img width="353" alt="Screenshot 2025-03-18 at 1 58 24 AM" src="https://github.com/user-attachments/assets/9d4d9879-4944-455e-9f75-2a062ac8bb6d" />
+
 #### Here's an example of a visualization made with my code: 
 <img width="566" alt="Screenshot 2025-03-18 at 1 57 41 AM" src="https://github.com/user-attachments/assets/634b71f5-6163-4f20-9341-5e6ed5a221e8" />
