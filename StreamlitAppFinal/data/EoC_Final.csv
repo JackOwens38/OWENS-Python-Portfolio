@@ -1,0 +1,50 @@
+Day,Date,Day,Start Day,Finish Day,Miles,Total Miles,Avg Daily Miles,Ascent,Ascent/Mile
+1,May 20,Tuesday,"San Francisco, CA","Vacaville, CA",78,78,78.00,4213,54.01
+2,May 21,Wednesday,"Vacaville, CA","Placerville, CA",91,169,84.50,3484,38.29
+3,May 22,Thursday,"Placerville, CA","Carson City, NV",68,237,79.00,8819,129.69
+4,May 23,Friday,"Carson City, NV","Fallon, NV",92,329,82.25,2119,23.03
+5,May 24,Saturday,"Fallon, NV","Austin, NV",85,414,82.80,5184,60.99
+6,May 25,Sunday,"Austin, NV","Eureka, NV",84,498,83.00,3150,37.50
+7,May 26,Monday,"Eureka, NV","Ely, NV",86,584,83.43,5101,59.31
+8,May 27,Tuesday,"Ely, NV","Minersville, UT",95,679,84.88,5224,54.99
+9,May 28,Wednesday,"Minersville, UT","Beaver, UT",89,768,85.33,4846,54.45
+10,May 29,Thursday,"Beaver, UT","Beaver, UT",0,768,76.80,0,#DIV/0!
+11,May 30,Friday,"Beaver, UT","Emery, UT",93,861,78.27,4752,51.10
+12,May 31,Saturday,"Emery, UT","Green River, UT",90,951,79.25,2850,31.67
+13,Jun 1,Sunday,"Green River, UT","Moab, UT",88,1039,79.92,3381,38.42
+14,Jun 2,Monday,"Moab, UT","Grand Junction, CO",86,1125,80.36,3299,38.36
+15,Jun 3,Tuesday,"Grand Junction, CO","Sapinero, CO",84,1209,80.60,6555,78.04
+16,Jun 4,Wednesday,"Sapinero, CO","Maysville, CO",88,1297,81.06,5120,58.18
+17,Jun 5,Thursday,"Maysville, CO","Siloam, CO",89,1386,81.53,4500,50.56
+18,Jun 6,Friday,"Siloam, CO","Siloam, CO",0,1386,77.00,0,#DIV/0!
+19,Jun 7,Saturday,"Siloam, CO","Sugar City, CO",95,1481,77.95,1005,10.58
+20,Jun 8,Sunday,"Sugar City, CO","Tribune, KS",90,1571,78.55,599,6.66
+21,Jun 9,Monday,"Tribune, KS","Beeler, KS",90,1661,79.10,599,6.66
+22,Jun 10,Tuesday,"Beeler, KS","Great Bend, KS",88,1749,79.50,702,7.98
+23,Jun 11,Wednesday,"Great Bend, KS","Newton, KS",92,1841,80.04,1192,12.96
+24,Jun 12,Thursday,"Newton, KS","Newton, KS",0,1841,76.71,0,#DIV/0!
+25,Jun 13,Friday,"Newton, KS","Toronto, KS",95,1936,77.44,2506,26.38
+26,Jun 14,Saturday,"Toronto, KS","La Cygne, KS",93,2029,78.04,2286,24.58
+27,Jun 15,Sunday,"La Cygne, KS","Green Ridge, MO",94,2123,78.63,3000,31.91
+28,Jun 16,Monday,"Green Ridge, MO","Jefferson City,  MO",92,2215,79.11,2248,24.43
+29,Jun 17,Tuesday,"Jefferson City,  MO","Weldon Spring, MO",95,2310,79.66,2509,26.41
+30,Jun 18,Wednesday,"Weldon Spring, MO","Litchfield, IL",93,2403,80.10,1074,11.55
+31,Jun 19,Thursday,"Litchfield, IL","Atlanta, IL",92,2495,80.48,1389,15.10
+32,Jun 20,Friday,"Atlanta, IL","Dwight, IL",87,2582,80.69,1183,13.60
+33,Jun 21,Saturday,"Dwight, IL","Hobart, IN",91,2673,81.00,1361,14.96
+34,Jun 22,Sunday,"Hobart, IN","Notre Dame, IN",75,2748,80.82,1591,21.21
+35,Jun 23,Monday,"Notre Dame, IN","Notre Dame, IN",0,2748,78.51,0,#DIV/0!
+36,Jun 24,Tuesday,"Notre Dame, IN","Fort Wayne, IN",92,2840,78.89,2346,25.50
+37,Jun 25,Wednesday,"Fort Wayne, IN","Bellefontaine, OH",99,2939,79.43,1147,11.59
+38,Jun 26,Thursday,"Bellefontaine, OH","Baltimore, OH",87,3026,79.63,2450,28.16
+39,Jun 27,Friday,"Baltimore, OH","Lore City, OH",84,3110,79.74,3477,41.39
+40,Jun 28,Saturday,"Lore City, OH","Fredericktown, PA",93,3203,80.08,6547,70.40
+41,Jun 29,Sunday,"Fredericktown, PA","Finzel, MD",89,3292,80.29,4671,52.48
+42,Jun 30,Monday,"Finzel, MD","Hancock, MD",82,3374,80.33,1012,12.34
+43,Jul 1,Tuesday,"Hancock, MD",East Berlin,92,3466,80.60,3710,40.33
+44,Jul 2,Wednesday,East Berlin,"Exton, PA",82,3548,80.64,4541,55.38
+45,Jul 3,Thursday,"Exton, PA","Philadelphia, PA",37,3585,79.67,893,24.14
+46,Jul 4,Friday,"Philadelphia, PA","Somers Point, NJ",59,3644,79.22,1647,27.92
+47,Jul 5,Saturday,"Somers Point, NJ","Somers Point, NJ",0,3644,77.53,0,#DIV/0!
+48,Jul 6,Sunday,"Somers Point, NJ","Ocean City, NJ",7,3651,76.06,78,11.14
+,,,,,,3651,76.06,128360,35.16
