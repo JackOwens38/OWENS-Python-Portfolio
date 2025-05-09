@@ -1,3 +1,9 @@
+import os
+
+print("Current Working Directory:", os.getcwd())
+print("Contents of Current Directory:", os.listdir())
+print("Contents of 'data' Directory:", os.listdir('data') if os.path.exists('data') else "No 'data' directory found")
+
 import streamlit as st
 import pandas as pd
 from datetime import datetime
