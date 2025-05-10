@@ -1,4 +1,6 @@
 import os
+import streamlit as st
+import pandas as pd
 
 # Print the current directory
 print("Current working directory:", os.getcwd())
