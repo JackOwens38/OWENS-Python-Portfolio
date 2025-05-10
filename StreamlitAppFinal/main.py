@@ -1,9 +1,3 @@
-import os
-
-print("Current Working Directory:", os.getcwd())
-print("Contents of Current Directory:", os.listdir())
-print("Contents of 'data' Directory:", os.listdir('data') if os.path.exists('data') else "No 'data' directory found")
-
 import streamlit as st
 import pandas as pd
 from datetime import datetime
@@ -22,7 +16,7 @@ st.markdown("""For more info, including to support the ride, visit **rhbe.org**.
         """)
 
 # Load the trip data
-df = pd.read_csv("data/EoC_Final.csv")
+df = pd.read_csv("StreamlitAppFinal/data/EoC_Final.csv")
 
 # Reads the dataset, converts each of the days into the correct format
 df['Date'] = pd.to_datetime(df['Date'] + ' 2025', format='%b %d %Y')
