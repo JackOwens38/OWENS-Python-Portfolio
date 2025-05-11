@@ -1,18 +1,3 @@
-import os
-import streamlit as st
-import pandas as pd
-
-# Print the current directory
-print("Current working directory:", os.getcwd())
-
-# Print all files and folders in the current directory
-print("Directory contents:")
-print(os.listdir(os.getcwd()))
-
-# Now attempt to load the file
-df = pd.read_csv("data/EoC_Final.csv")
-
-
 import streamlit as st
 import pandas as pd
 from datetime import datetime
