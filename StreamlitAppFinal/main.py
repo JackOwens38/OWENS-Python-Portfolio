@@ -34,7 +34,7 @@ days_completed = df[df['Date'] < today].count()
 
 # Adds image of full route
 from PIL import Image # Imports library that makes it easy to open images in Streamlit
-route_map = Image.open('data/us_map.png')
+route_map = Image.open('StreamlitAppFinal/us_map.png')
 st.image(route_map, caption="Route: San Francisco, CA to Ocean City, NJ", use_column_width=True)
 
 # Button that allows users to view the full route in another link
@@ -86,7 +86,7 @@ with st.container(): # Each section displays a progress bar of how far into the 
 
 # Photo Gallery that will update upon day's completion
 st.header("Photo Gallery")
-pre_ride_image = Image.open('data/pre_ride.jpg')
+pre_ride_image = Image.open('StreamlitAppFinal/pre_ride.jpg')
 
 if selected_day == "Today" or selected_row['Date'] <= today:
     # Show the default pre-ride image for before the ride
