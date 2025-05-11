@@ -35,7 +35,7 @@ days_completed = df[df['Date'] < today].count()
 # Adds image of full route
 from PIL import Image # Imports library that makes it easy to open images in Streamlit
 route_map = Image.open('StreamlitAppFinal/us_map.png')
-st.image(route_map, caption="Route: San Francisco, CA to Ocean City, NJ", use_column_width=True)
+st.image(route_map, caption="Route: San Francisco, CA to Ocean City, NJ", use_container_width=True)
 
 # Button that allows users to view the full route in another link
 if st.button("View Route", key='view_route_main'): 
@@ -90,12 +90,12 @@ pre_ride_image = Image.open('StreamlitAppFinal/pre_ride.jpg')
 
 if selected_day == "Today" or selected_row['Date'] <= today:
     # Show the default pre-ride image for before the ride
-    st.image(pre_ride_image, caption="Pre-Ride Photo", use_column_width=True)
+    st.image(pre_ride_image, caption="Pre-Ride Photo", use_container_width=True)
 else:
     # This day has not yet occurred, so there are not pictures yet
     st.write("This day has not yet occurred, please check back after this day for pictures!")
     st.write("In the meantime, here is an image from before the ride:")
-    st.image(pre_ride_image, caption="Pre-Ride Photo", use_column_width=True)
+    st.image(pre_ride_image, caption="Pre-Ride Photo", use_container_width=True)
 
 # This section includes a lot of additional information that I took from other documents I have built for the ride; I was able to format it with markdown.
 st.header("Additional Information")
