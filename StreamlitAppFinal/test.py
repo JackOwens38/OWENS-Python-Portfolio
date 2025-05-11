@@ -1,6 +1,6 @@
 import pandas as pd
-import os
+import streamlit as st
 
-# Ensure you are using the correct relative path
-file_path = os.path.join(os.path.dirname(__file__), 'data', 'EoC_Final.csv')
-df = pd.read_csv(file_path)
+df = pd.read_csv("data/EoC_Final.csv")
+st.title('Test')
+st.write("Does it work?", df['Date'][0])
